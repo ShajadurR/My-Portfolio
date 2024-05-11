@@ -20,7 +20,7 @@
 
 .header {
     background-color: #FFF8F3;
-    background-image: url(../Image/bgstyle.png), url(../Image/Developer.png);
+    background-image: url(../Image/bgstyle.png), url(../Image/developer.png);
     background-repeat: no-repeat;
     background-position: bottom right, left center;
 }
