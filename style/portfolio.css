@@ -28,7 +28,8 @@
 nav {
     display: flex;
     justify-content: space-between;
-    margin: 0px 400px 200px 100px;
+    /* margin: 0px 400px 200px 100px; */
+    padding: 70px 200px;
 }
 
 .nav-title {
@@ -170,7 +171,7 @@ main {
 .resume-item {
     margin-top: 30px;
     margin-bottom: 30px;
-    text-align: left;
+    text-align: center;
 }
 .resume .title {
     color: #474747;
